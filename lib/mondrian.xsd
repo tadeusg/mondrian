@@ -25,7 +25,7 @@
                                     Name of this parameter. 
                                 </xsd:documentation>
                             </xsd:annotation>
-                        </xsd:attribute>
+                        </xsd:attribute> 
                         <xsd:attribute name="description" type="xsd:string" use="optional">
                             <xsd:annotation>
                                 <xsd:documentation>
